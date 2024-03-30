@@ -8,7 +8,7 @@
 - Created engaging content for coding programming aimed at kids' classes.
 - Designed interactive quizzes to enhance learning experiences.
 - Conducted research to support the teaching of coding concepts to young students.
-- 
+  
 **Journal Content Editor @ Iranian Association of Geography and Rural Planning, Tehran, Iran (_March 2021 - May 2023_)**
 - Edited and evaluated articles in English to maintain high-quality content.
 - Ensured the accuracy and clarity of content in collaboration with authors and reviewers.
