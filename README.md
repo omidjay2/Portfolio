@@ -27,9 +27,11 @@
 ### Programming and Data Visualization With Python 
 **Network Analysis** 
 In this project, I analyzed London's Underground Network to pinpoint critical stations using centrality measures. By plotting the network and calculating Degree, Betweenness, and Eigenvector centralities, I identified vulnerable stations. Visualizations and network attacks were employed to assess network resilience, with findings detailed in a comprehensive report.
-
+![London Underground Network](/assets/img/LA_Earthquake.png)
+ 
 **Spatial Analysis**
 I conducted spatial analysis to assess earthquake impact on population and buildings globally. By gathering earthquake data, building footprints, and population counts, I defined concentric rings around epicenters to gauge the extent of impact. Additionally, I proposed street network-based escape routes. Results, including population and building impact tables, were compiled in a detailed report.
+
 
 **Geographic Machine Learning**
 I performed spatial cluster analysis on Airbnb listings to examine location and price effects on review scores. By applying the DBSCAN algorithm, I clustered listings based on bedrooms, price, and review scores. The analysis featured cluster plots, maps, and a succinct report interpreting the clustering outcomes. 
