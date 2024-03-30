@@ -1,7 +1,10 @@
 # General settings
-title: Omid Jamshid Zehi S.
+title: Omid Jamshid Zehi
+logo: 
 description: Data Science Expert
 theme: jekyll-theme-minimal 
+
+
 
 # # GitHub Pages settings
 # # remote_theme: "mmistakes/minimal-mistakes" # Replace this with your preferred theme if not using the default Jekyll theme
