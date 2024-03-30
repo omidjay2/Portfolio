@@ -1,0 +1,40 @@
+# General settings
+title: Omid Jamshid Zehi S.
+description: Data Science Expert
+theme: jekyll-theme-minimal 
+
+# # GitHub Pages settings
+# # remote_theme: "mmistakes/minimal-mistakes" # Replace this with your preferred theme if not using the default Jekyll theme
+# plugins:
+#   - jekyll-feed
+
+# # Site settings
+# url: "https://omidjay.github.io" # Replace 'yourusername' with your GitHub username
+# baseurl: "" # You can set this if your site is hosted in a subdirectory
+
+# # Exclude from processing
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor
+#   - README.md
+#   - LICENSE
+
+# # Build settings
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+#   auto_ids: true
+
+# # Navigation links (optional, depends on your theme)
+# # You can customize these as per your needs
+# nav:
+#   - text: Home
+#     url: /
+#   - text: About
+#     url: /about
+#   - text: Projects
+#     url: /projects
+#   - text: Contact
+#     url: /contact
