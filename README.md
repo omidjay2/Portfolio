@@ -27,14 +27,19 @@
 ### Programming and Data Visualization With Python 
 **Network Analysis** 
 In this project, I analyzed London's Underground Network to pinpoint critical stations using centrality measures. By plotting the network and calculating Degree, Betweenness, and Eigenvector centralities, I identified vulnerable stations. Visualizations and network attacks were employed to assess network resilience, with findings detailed in a comprehensive report.
-![London Underground Network](/assets/img/LA_Earthquake.png)
+![London Underground](/assets/img/LondonUG.png)
+![Network Interruption](/assets/img/LondonUG_change.png)
  
 **Spatial Analysis**
 I conducted spatial analysis to assess earthquake impact on population and buildings globally. By gathering earthquake data, building footprints, and population counts, I defined concentric rings around epicenters to gauge the extent of impact. Additionally, I proposed street network-based escape routes. Results, including population and building impact tables, were compiled in a detailed report.
-
+![LA Earthquake](/assets/img/LA_Earthquake.png)
+![Shortest Path to Get Out](/assets/img/airbnb_price_clusters.png)
 
 **Geographic Machine Learning**
 I performed spatial cluster analysis on Airbnb listings to examine location and price effects on review scores. By applying the DBSCAN algorithm, I clustered listings based on bedrooms, price, and review scores. The analysis featured cluster plots, maps, and a succinct report interpreting the clustering outcomes. 
+![Geo Clusters](/assets/img/London_airbnb_geoclusters.png)
+![Price Clusters](/assets/img/airbnb_price_clusters.png)
+
 
 ### Diversity in Business Venues using PostgreSQL
 I analyzed substance provision places in a selected region to support business diversity while avoiding concentrations of fast food outlets. Using OpenStreetMap data, I collected and ingested venue information into a PostgreSQL database, followed by initial exploration and data cleaning. Basic wrangling involved spatial operations and amenity counts per geography. Further cleaning included imputing missing cuisine values using a KNN approach for specific areas. Recommendations, presented in a concise report, emphasized promoting business diversity and avoiding fast food clusters, supported by maps, plots, and additional analysis.
