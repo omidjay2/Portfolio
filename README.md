@@ -43,13 +43,23 @@ I performed spatial cluster analysis on Airbnb listings to examine location and 
 
 
 ### Diversity in Business Venues using PostgreSQL
-I analyzed substance provision places in a selected region to support business diversity while avoiding concentrations of fast food outlets. Using OpenStreetMap data, I collected and ingested venue information into a PostgreSQL database, followed by initial exploration and data cleaning. Basic wrangling involved spatial operations and amenity counts per geography. Further cleaning included imputing missing cuisine values using a KNN approach for specific areas. Recommendations, presented in a concise report, emphasized promoting business diversity and avoiding fast food clusters, supported by maps, plots, and additional analysis.
+I analyzed substance provision places in a selected region to support business diversity while avoiding concentrations of fast food outlets. Using OpenStreetMap data, I collected and ingested venue information into a PostgreSQL database, followed by initial exploration and data cleaning. Basic wrangling involved spatial operations and amenity counts per geography. Further cleaning included imputing missing cuisine values using a KNN approach for specific areas. Recommendations, presented in a concise report, emphasized promoting business diversity and avoiding fast food clusters, supported by maps, plots, and additional analysis. The maps for this project was created by QGIS. 
+
+![AmenityDistribution](/assets/img/AmenityDistribution.jpg)
 
 
 ### Accessibility Disparities in Manchester District using R and R5R packages
 I conducted an analysis of socio-spatial inequalities in the Manchester District, focusing on accessibility disparities for two Supergroups. Utilizing the Output Area Classification (OAC) 2021, I selected specific areas and calculated accessibility metrics, including cumulative opportunity, at various cut-off time thresholds and different hours on weekdays and weekends. I examined accessibility to key amenities to schools and supermarkets constructing a comprehensive profile of accessibility disparities between the two Supergroups. The analysis delved into how accessibility metrics fluctuate throughout the day and between weekdays and weekends, considering the diverse needs of different social groups within each area as outlined in the OAC documentation.
 
+![AmenityDistribution](/assets/img/retailers1.png)
+![AmenityDistribution](/assets/img/retailers2.png)
 
+### Analyzing Spatial Relationships in Electric Vehicles Recharge Station Distribution Using ArcGIS pro, R and GeoDa
+In this project, I conducted an in-depth analysis focusing on the spatial distribution of Electric Vehicle (EV) recharge stations in London boroughs, considering various socio-economic, environmental, and demographic factors. Data collection involved compiling a comprehensive dataset from diverse sources, including the National Charge Point Registry, Statista, OpenStreetMap, and the London Datastore, to explore the relationship between public EV recharge points and relevant variables such as population density, income levels, transportation emissions, and street infrastructure. Through point pattern analysis, global and local Moran’s I statistics, correlation analysis, data transformation, and **exploratory and OLS regression**, I delved into understanding the spatial patterns and determinants of recharge station distribution. The findings highlighted significant correlations between recharge station distribution and variables like EV owner density, population density, and street area ratio. Moreover, the **spatial regression analysis**, particularly the *Spatial Lag Model*, emerged as the most effective in explaining 63.3% of the variance in recharge station numbers, considering spatial dependency.
+
+![correlation](/assets/img/correlation.png)
+![rechargecluster](/assets/img/Clusters.jpg)
+![regression](/assets/img/regression.png)
 
 ## Publications
 1. Jamshidzehi Shahbakhsh, Omid, Horieh Moradi (2021). Rural Tourism Development in Gilan: A Grounded Theory Study (Case: Rahmatabad and Blukat District in Rudbar County), Journal of Research and Rural Planning, 10(1), 81-99. https://doi.org/10.22067/JRRP.V10I1.88723 
