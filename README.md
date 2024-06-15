@@ -77,7 +77,7 @@ In this project, I conducted an in-depth analysis focusing on the spatial distri
 
 **Abstract Summary:**
 - **Objective:** Analyze the effects of urban sprawl on physical-spatial changes in peripheral villages of Zahedan.
-- **Method:** Descriptive-analytical approach using Landsat satellite images.
+- **Method:** Descriptive-analytical approach using Google Engine historical satellite images.
 - **Findings:** Urban sprawl has led to population growth, village expansion, and employment structure changes. Negative impact on agriculture, positive impact on services, and increased cultural exchanges.
 - **Conclusion:** Urban sprawl significantly transforms peri-urban areas. Effective management strategies are needed to balance growth and sustainability.
 
