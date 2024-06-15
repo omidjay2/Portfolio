@@ -62,8 +62,67 @@ In this project, I conducted an in-depth analysis focusing on the spatial distri
 ![regression](/assets/img/regression.png)
 
 ## Publications
-1. Jamshidzehi Shahbakhsh, Omid, Horieh Moradi (2021). Rural Tourism Development in Gilan: A Grounded Theory Study (Case: Rahmatabad and Blukat District in Rudbar County), Journal of Research and Rural Planning, 10(1), 81-99. https://doi.org/10.22067/JRRP.V10I1.88723 
-2. Moradi, Horieh, & Omid Jamshid Zehi Shahbakhsh (2020). Study of marketing margins of agricultural products in rural Iran based on Rosenthal’s meta-analysis approach", funded by Lorestan University in Iran (code: 99103111400).
-3. Ghanbari, Sirous, Omid Jamshid Zehi Shahbakhsh, and Mahdi Naderianfar. (2019). The Impact of Concrete Wall Construction Between Iran and Afghanistan Border on Safety of Iran South-Eastern Marginal Regions. Journal of Borderlands Studies, 1-15. https://doi.org/10.1080/08865655.2019.1700388
 
+### [The Impact of Concrete Wall Construction Between Iran and Afghanistan Border on Safety of Iran South-Eastern Marginal Regions](https://doi.org/10.1080/08865655.2019.1700388)
+*Journal of Borderlands Studies*, 1-15 (2019)
+
+**Abstract Summary:**
+- **Objective:** Analyze the effects of a concrete wall on safety in Sistan's rural regions.
+- **Method:** Descriptive-analytical approach using secondary data, field studies, and surveys; statistical analysis with ArcGIS and SPSS.
+- **Findings:** Wall construction has significantly increased safety in Sistan villages.
+- **Conclusion:** The concrete wall has led to sustainable safety improvements, reducing threats from drug smuggling, weapons, and terrorist activities.
+
+### [Analysis of Urban Sprawl and Its Effects on the Physical-Spatial Changes of Peripheral Villages of Zahedan](https://www.sid.ir/paper/358808/fa)
+*Peripheral Urban Spaces Development*, 2(1), 85-104. (2020)
+
+**Abstract Summary:**
+- **Objective:** Analyze the effects of urban sprawl on physical-spatial changes in peripheral villages of Zahedan.
+- **Method:** Descriptive-analytical approach using Landsat satellite images.
+- **Findings:** Urban sprawl has led to population growth, village expansion, and employment structure changes. Negative impact on agriculture, positive impact on services, and increased cultural exchanges.
+- **Conclusion:** Urban sprawl significantly transforms peri-urban areas. Effective management strategies are needed to balance growth and sustainability.
+
+### [Investigating Spatial-Physical Consequences of Polygamy Phenomenon in Border Villages of Iran (Case Study: Hirmand County)](https://jrrp.um.ac.ir/article_39943.html)
+*Journal of Research and Rural Planning*, 10(2), 1-16 (2021)
+
+**Abstract Summary:**
+- **Objective:** Analyze the spatial consequences of polygamy in rural Hirmand County, Sistan and Baluchistan province, Iran.
+- **Method:** Descriptive-analytical approach using field studies and household questionnaires; statistical analysis with SPSS and ArcGIS.
+- **Findings:** Polygamy is more common in villages within 5 km of the Iran-Afghanistan border. The Kendall test confirmed a significant relationship between polygamy and physical village development.
+- **Conclusion:** The study fills a gap in the geographic literature by analyzing the physical consequences of polygamy in rural settlements.
+
+### [Rural Tourism Development in Gilan: A Grounded Theory Study (Case: Rahmatabad and Blukat District in Rudbar County)](https://doi.org/10.22067/JRRP.V10I1.88723)
+*Journal of Research and Rural Planning*, 10(1), 81-99 (2021)
+
+**Abstract Summary:**
+- **Objective:** Understand rural tourism development in Rudbar County, Guilan province.
+- **Method:** Qualitative, grounded theory approach with in-depth, semi-structured interviews; purposive sampling of 18 key informants.
+- **Findings:** Key tourism commodities include ecotourism, agrotourism, and participatory approaches. Core category identified as "tourism product development policy."
+- **Conclusion:** Improving infrastructure, marketing, and human capital is crucial for rural tourism development. Recommendations include enhancing mobile and Internet access, water and electricity quality, and local services.
+
+### [Marketing Margin in Agricultural Products of Iran Villages: Markup Pattern](http://gsma.lu.ac.ir/article-1-510-fa.html)
+*Journal of Geographical Studies of Mountainous Areas*, 3 (10), 231-252. (2022)
+
+**Abstract Summary:**
+- **Objective:** Investigate the marketing margin of Iran's agricultural products over 20 years (1998-2018).
+- **Method:** Narrative and meta-analytical research with descriptive-analytical techniques; analysis using Cohen's d effect size correlation.
+- **Findings:** Livestock product marketing margin aligns with the mark-up model. Horticultural products have the highest influence from the marketing margin. Key variables affecting price include marketing costs, producer prices, and retail costs.
+- **Conclusion:** Effective marketing margins significantly impact agricultural product prices. Improved pricing and distribution systems are needed.
+
+### [Unproductive Activities and Their Affecting Factors in Iran](https://jrrp.um.ac.ir/article_42531.html)
+*Journal of Research and Rural Planning*, 11(3), 15-33. (2022)
+
+**Abstract Summary:**
+- **Objective:** Analyze factors causing and spreading unproductive activities in Fumanat, Gilan.
+- **Method:** Qualitative research using secondary data and grounded theory with inductive interviews.
+- **Findings:** High prevalence of unproductive activities across various zones. Key factors include uncertainty, lack of support for productive activities, property rights issues, inadequate privatization, and dysfunctional institutions.
+- **Conclusion:** Unproductive activities are contextually influenced by regional factors. Addressing these factors requires targeted policy interventions.
+
+### [The Effects of Good Urban Governance in Achieving Resilience of Informal Settlements in Zanjan City, Iran](https://doi.org/10.4335/21.3.619-636(2023))
+*Lex Localis: Journal of Local Self-Government*, 21(3). (2023)
+
+**Abstract Summary:**
+- **Objective:** Investigate the relationship between good urban governance and resilience of informal settlements in Zanjan City, Iran.
+- **Method:** Descriptive-analytical approach using SPSS for data analysis; Pearson correlation and multivariate regression analysis.
+- **Findings:** Participation, effectiveness, and accountability significantly impact resilience. Equity and security have a lesser effect.
+- **Conclusion:** Good urban governance is crucial for managing informal settlements. The Urban Governance Index can guide resilience efforts.
 
