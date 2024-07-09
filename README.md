@@ -1,6 +1,6 @@
 # Geographical Data Scientist
 
-#### Technical Skills: Python, ArcGIS Pro, QGIS, R, Geoda
+#### Technical Skills: Python, ArcGIS Pro, PostgreSQL, QGIS, R, Geoda
 
 
 ## Professional Experience
@@ -19,6 +19,11 @@
 - Msc in Geographic Data Science, Birkbeck, University of London, London, UK (_October 2023 - ongoing_)
 - M.A. in Human Geography & Rural Planning, Sistan & Baluchestan University, Zahedan, Iran (_September 2015 - September 2017_)
 - B.S. in Agriculture Engineering, Zabol University, Zabol, Iran (_September 2003 - October 2008_)
+
+## Certificates
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="31d00eec-bcca-4cf7-b430-1c221b895c0f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36894483-3737-4d81-9a65-ebfddec8ffa5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## Projects
