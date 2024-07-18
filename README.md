@@ -30,7 +30,7 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36894483-3737-4d81-9a65-ebfddec8ffa5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-![IEUK](/assets/img/certificate.jpg)
+<iframe src="https://www.brightnetwork.co.uk/certificates/ieuk-2024-technology-on-demand_ygsuiwxzirqh1v/" width="600" height="400" frameborder="0" allowfullscreen></iframe>
 
 ## Projects
 ### Academic Projects: 
