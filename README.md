@@ -4,6 +4,11 @@
 
 
 ## Professional Experience
+**Internship Experience UK On-Demand @ Bright Network, UK. (July 2024)**
+- workshops on leadership, transferable skills, and professional branding by ICAEW and Deloitte.
+- Engaged in panels on future tech trends from Lloyds, BT Group, and CrowdStrike.
+- Conducted a product management strategy showcasing problem-solving and analytical skills 
+
 **Internship as Content Creation Assistent @ Blue Shift Education, London, UK (_March 2024_)**
 - Created engaging content for coding programming aimed at kids' classes.
 - Designed interactive quizzes to enhance learning experiences.
