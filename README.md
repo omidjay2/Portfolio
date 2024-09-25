@@ -30,10 +30,13 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36894483-3737-4d81-9a65-ebfddec8ffa5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<iframe src="https://www.brightnetwork.co.uk/certificates/ieuk-2024-technology-on-demand_ygsuiwxzirqh1v/" width="600" height="400" frameborder="0" allowfullscreen></iframe>
 
 ## Projects
 ### Academic Projects: 
+
+### Dissertation:Crime Seasonality Analysis Across UK Cities Using Time Series Models
+I conducted an in-depth analysis of crime seasonality in five UK cities (Newcastle, Leeds, Birmingham, Bristol, and Plymouth) before and after the COVID-19 pandemic, utilizing time-series crime data from June 2013–May 2019 and June 2022–May 2024. The project applied STL decomposition to uncover seasonal patterns, and I used KNN clustering to identify common crime trends. To forecast post-pandemic crime patterns, I employed SARIMA, Prophet, ETS, and GRU models, comparing their effectiveness. SARIMA outperformed other models due to its ability to capture long-term dependencies. 
+![Seasonality](/assets/img/Sarima.jpg)
 
 ### Programming and Data Visualization With Python 
 **Network Analysis** 
