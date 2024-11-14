@@ -30,9 +30,6 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36894483-3737-4d81-9a65-ebfddec8ffa5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<img src="assets/img/ETL&ELT.jpg" alt="ETL&ELT" width="100" height="80">
-
-<img src="assets/img/DataWarehousing.jpg" alt="DataWarehousing" width="100" height="80">
 
 
 ## Projects
